@@ -1,5 +1,11 @@
 # Cascon 2018: Welcome to our API Connect & LoopBack workshop!
 
+## Overview
+
+
+## Prerequisites
+
+
 ## Members
 * Amir Jafarian: https://github.com/amir-61
 * Biniam Admikew: https://github.com/b-admike
