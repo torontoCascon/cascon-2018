@@ -1,14 +1,19 @@
 # Cascon 2018: Welcome to our API Connect & LoopBack workshop!
 
 ## Agenda
+* Introduction
+* HTTP Client Demo
+* Hands on with Zomato Food Search
+* Test and Monitoring
+* Q&A
 
 ## Prerequisites
+Each workshop attendee should have a way of logging in to API Connect Test and Monitor here: https://us-east.apitest.apiconnect.ibmcloud.com/app/
+
 
 ## Overview
 ### 1. Introduction
-This document describes how to demonstrate some intermediate to advanced usage of API Connect Test and Monitor by constructing an integration test based on a real world user story. Using the free Zomato API, we can search for restaurants meeting a certain criteria. This document will demonstrate how.
-
-Each workshop attendee should already have a way of logging in to API Connect Test and Monitor here: https://us-east.apitest.apiconnect.ibmcloud.com/app/
+This describes how to demonstrate some intermediate to advanced usage of API Connect Test and Monitor by constructing an integration test based on a real world user story. Using the free Zomato API, we can search for restaurants meeting a certain criteria. This document will demonstrate how.
 
 ### 2. Obtaining an API key
 As the Zomato API is a paid-for service, it requires an API key, however the first 1,000 calls per month are free of charge. In this demo I will show my API key but please don’t use it, as we might run out of calls. Each user should go to https://developers.zomato.com/api and click the “Generate API key” button. You can sign up with email or sign in using Google or Facebook.
