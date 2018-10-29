@@ -17,6 +17,14 @@ This describes how to demonstrate some intermediate to advanced usage of API Con
 ### 2. Obtaining an API key
 As the Zomato API is a paid-for service, it requires an API key, however the first 1,000 calls per month are free of charge. In this demo I will show my API key but please don’t use it, as we might run out of calls. Each user should go to https://developers.zomato.com/api and click the “Generate API key” button. You can sign up with email or sign in using Google or Facebook.
 
+If you tried the instructions above, but cannot acquire an API key, you can use the following ones we've created for the workshop, but note that they may run out of API calls if multiple people are using them:
+
+7d4405b3150b89c293b4663705de5e80
+ff395e2b81ae8bb9280ec963ffca0ead
+0abc8db4a6a147fd921ef48d95ae0ddc
+8576ce7158c230acf3db4c0c92c39158
+4fb2220d02f259843a91db67f9bf5acd
+
 
 ### 3. Testing the API key
 Once the API key has been obtained, go to https://developers.zomato.com/documentation and find the /cities endpoint. Click on it and the section should expand.
