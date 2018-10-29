@@ -1,4 +1,4 @@
-# Cascon 2018: Welcome to our API Connect & LoopBack workshop!
+# Cascon 2018: Welcome to our API Connect Test and Monitor workshop!
 
 ## Agenda
 * Introduction
