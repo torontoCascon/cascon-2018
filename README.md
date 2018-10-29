@@ -133,13 +133,11 @@ The longer variant of the test uses three calls and can be reconstructed easily 
 
 
 ## References
-- API Test and Monitoring   
-    - http://ibm.biz/apitest
+- API Test and Monitoring:   http://ibm.biz/apitest
+- External APIs examples:   https://github.com/toddmotto/public-apis
 - HTTPS Client   
     - https://chasing-coins.com/api/v1/top-coins/20
     - https://api.genderize.io/?name=YOURNAME
 - AUTH Client
-    - Google Map   https://cloud.google.com/maps-platform
-    - Zomato   https://developers.zomato.com/api
-- External APIs examples
-    - https://github.com/toddmotto/public-apis
+    - Google Maps:   https://cloud.google.com/maps-platform
+    - Zomato:   https://developers.zomato.com/api
