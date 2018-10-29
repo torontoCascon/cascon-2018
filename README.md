@@ -130,3 +130,16 @@ The longer variant of the test uses three calls and can be reconstructed easily 
 * Nora Abdelgadir: https://github.com/nabdelgadir
 * Peter EL-Koreh: https://github.com/elkorep
 * Wendy Hua: https://github.com/hwd8
+
+
+## References
+- API Test and Monitoring   
+    - http://ibm.biz/apitest
+- HTTPS Client   
+    - https://chasing-coins.com/api/v1/top-coins/20
+    - https://api.genderize.io/?name=YOURNAME
+- AUTH Client
+    - Google Map   https://cloud.google.com/maps-platform
+    - Zomato   https://developers.zomato.com/api
+- External APIs examples
+    - https://github.com/toddmotto/public-apis
