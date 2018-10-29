@@ -84,8 +84,8 @@ The screen should now look like this:
 
         Name: entity_id, Variable: _1.id
         Name: entity_type, String value: city
-        Name: count, String value: 10
         Name: q, String value: “Dim Sum” (or example cuisine of your choice).
+        Name: count, String value: 10
 
 The GET should now look like this:
 
