@@ -8,7 +8,7 @@
 * Q&A
 
 ## Prerequisites
-Each workshop attendee should have a way of logging in to API Connect Test and Monitor here: https://us-east.apitest.apiconnect.ibmcloud.com/app/
+Each workshop attendee should have a way of logging in to API Connect Test and Monitor here: http://ibm.biz/apitest
 
 ## Overview
 ### 1. Introduction
