@@ -19,11 +19,11 @@ As the Zomato API is a paid-for service, it requires an API key, however the fir
 
 If you tried the instructions above, but cannot acquire an API key, you can use the following ones we've created for the workshop, but note that they may run out of API calls if multiple people are using them:
 
-7d4405b3150b89c293b4663705de5e80
-ff395e2b81ae8bb9280ec963ffca0ead
-0abc8db4a6a147fd921ef48d95ae0ddc
-8576ce7158c230acf3db4c0c92c39158
-4fb2220d02f259843a91db67f9bf5acd
+- 7d4405b3150b89c293b4663705de5e80
+- ff395e2b81ae8bb9280ec963ffca0ead
+- 0abc8db4a6a147fd921ef48d95ae0ddc
+- 8576ce7158c230acf3db4c0c92c39158
+- 4fb2220d02f259843a91db67f9bf5acd
 
 
 ### 3. Testing the API key
